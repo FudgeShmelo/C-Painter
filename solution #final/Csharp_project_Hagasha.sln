@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_project_Hagasha", "Csharp_project_Hagasha.csproj", "{2E162E39-1CFF-4193-A7FF-6CEB641A99C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E162E39-1CFF-4193-A7FF-6CEB641A99C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E162E39-1CFF-4193-A7FF-6CEB641A99C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E162E39-1CFF-4193-A7FF-6CEB641A99C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E162E39-1CFF-4193-A7FF-6CEB641A99C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82C8124E-540D-49E2-BE91-5D8E6E706EA5}
+	EndGlobalSection
+EndGlobal

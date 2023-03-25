@@ -1,0 +1,70 @@
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\bin\Debug\Csharp_project_Hagasha.exe.config
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\bin\Debug\Csharp_project_Hagasha.exe
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\bin\Debug\Csharp_project_Hagasha.pdb
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.Form1.resources
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.Properties.Resources.resources
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.GenerateResource.cache
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.CoreCompileInputs.cache
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\BAR\source\repos\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.pdb
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\bin\Debug\Csharp_project_Hagasha.exe.config
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\bin\Debug\Csharp_project_Hagasha.exe
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\bin\Debug\Csharp_project_Hagasha.pdb
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.Form1.resources
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.Properties.Resources.resources
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.GenerateResource.cache
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.csproj.CoreCompileInputs.cache
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\barta\Desktop\c# for oop\Project hagasha v 1.1\Csharp_project_Hagasha\Csharp_project_Hagasha\obj\Debug\Csharp_project_Hagasha.pdb
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\bin\Debug\Csharp_project_Hagasha.exe.config
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\bin\Debug\Csharp_project_Hagasha.exe
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\bin\Debug\Csharp_project_Hagasha.pdb
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.Form1.resources
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.Properties.Resources.resources
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.csproj.GenerateResource.cache
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.csproj.CoreCompileInputs.cache
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\omerm\OneDrive\Desktop\project\פתרון\obj\Debug\Csharp_project_Hagasha.pdb
+C:\Users\omerm\OneDrive\Desktop\project\selution\bin\Debug\Csharp_project_Hagasha.exe.config
+C:\Users\omerm\OneDrive\Desktop\project\selution\bin\Debug\Csharp_project_Hagasha.exe
+C:\Users\omerm\OneDrive\Desktop\project\selution\bin\Debug\Csharp_project_Hagasha.pdb
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.Form1.resources
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.Properties.Resources.resources
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.csproj.GenerateResource.cache
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.csproj.CoreCompileInputs.cache
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\omerm\OneDrive\Desktop\project\selution\obj\Debug\Csharp_project_Hagasha.pdb
+C:\Users\BAR\Desktop\C#\selution\bin\Debug\Csharp_project_Hagasha.exe.config
+C:\Users\BAR\Desktop\C#\selution\bin\Debug\Csharp_project_Hagasha.exe
+C:\Users\BAR\Desktop\C#\selution\bin\Debug\Csharp_project_Hagasha.pdb
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.Form1.resources
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.Properties.Resources.resources
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.csproj.GenerateResource.cache
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.csproj.CoreCompileInputs.cache
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\BAR\Desktop\C#\selution\obj\Debug\Csharp_project_Hagasha.pdb
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\bin\Debug\Csharp_project_Hagasha.exe.config
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\bin\Debug\Csharp_project_Hagasha.exe
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\bin\Debug\Csharp_project_Hagasha.pdb
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.Form1.resources
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.Properties.Resources.resources
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.csproj.GenerateResource.cache
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.csproj.CoreCompileInputs.cache
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\omerm\OneDrive\Desktop\project\solution #almost final blat\obj\Debug\Csharp_project_Hagasha.pdb
+C:\Users\barta\Desktop\solution #final\solution #final\obj\Debug\Csharp_project_Hagasha.csproj.AssemblyReference.cache
+C:\Users\barta\Desktop\solution #final\solution #final\obj\Debug\Csharp_project_Hagasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\barta\Desktop\solution #final\solution #final\obj\Debug\Csharp_project_Hagasha.exe
+C:\Users\barta\Desktop\solution #final\solution #final\obj\Debug\Csharp_project_Hagasha.pdb
