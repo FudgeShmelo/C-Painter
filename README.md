@@ -1,4 +1,3 @@
 # C#-Painter 
-C# Painter with shapes and colors <br />
-First download the entire folder  
-In order to open the painter you need to go inside obj folder and open the .exe file
+C# Painter with shapes and colors <br /> 
+In order to open the painter you need to go inside obj folder and open the "Csharp_project_Hagasha.exe" file
